@@ -1,5 +1,5 @@
 {
-  "name": "ELITE-PRO-V1",
+  "name": "Rehan-PRO-V1",
   "version": "1.0.5",
   "description": "A WhatsApp bot with rich features.",
   "main": "main.js",
@@ -20,7 +20,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^5.1.0",
     "@hapi/boom": "^10.0.1",
-    "awesome-phonenumber": "^5.9.0",
+    "awesome-phonenumber":923197457072 "^5.9.0",
     "axios": "^1.9.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
