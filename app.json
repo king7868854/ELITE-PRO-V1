@@ -14,33 +14,33 @@
       "description": "Bot command prefix (example: ., !, #)",
       "value": "."
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {923197457062
       "description": "Owner's phone number in international format (without +).",
       "value": "2348109263390"
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {Rehan 
       "description": "Owner's display name.",
       "value": "ElitePro"
     },
-    "BOT_NAME": {
+    "BOT_NAME": {Rehan md
       "description": "Bot display name.",
-      "value": "ELITE-PRO-V1"
+      "value": "Rehan-PRO-V1"
     },
     "AUTO_RECORDING": {
       "description": "Enable auto-recording simulation (true or false).",
       "value": "false"
     },
-    "AUTO_TYPING": {
+    "AUTO_TYPING": {yes
       "description": "Enable auto-typing simulation (true or false).",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_RECORD_TYPE": {
       "description": "Enable audio recording type simulation.",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "Auto read all incoming messages.",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_BIO": {
       "description": "Enable auto bio updates with time.",
@@ -60,7 +60,7 @@
     },
     "AUTO_REACT": {
       "description": "Enable automatic reactions to messages.",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_LIKE_STATUS": {
       "description": "Automatically react to viewed statuses.",
